@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: { 
     host: true,
-    allowedHosts: ["savannah-morning-streams-producing.trycloudflare.com"]
+    allowedHosts: ["camera-basket-boolean-blogs.trycloudflare.com"]
   }
 })
